@@ -19,3 +19,7 @@ progressive [--path|-p] 图片保存路径
   -v, --version       显示版本
   -h, --help          显示帮助
 ```
+
+```
+备注: 只在mac osx 系统上测试过, 貌似windows有兼容问题。
+```
