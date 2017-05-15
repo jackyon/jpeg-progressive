@@ -9,7 +9,6 @@ $ npm install jpeg-progressive -g
 
 2.terminal前往至图片目录
 ```
-//首次运行需要设置 plugin , 请带参数, 如: ness -u xxx 或 ness --use xxx, 如:
 $ progressive
 ```
 
